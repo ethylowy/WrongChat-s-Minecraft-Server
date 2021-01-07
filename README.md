@@ -4,6 +4,8 @@
  
  Join Our community on http://discord.gg/6hx7HCJ
  
+ At this moment server is working as "invite-only", until it will be properly setted up and check against any vulnerabilities. If You wish to help, see Recruitment section. 
+ 
  
 # Recruitment
 
