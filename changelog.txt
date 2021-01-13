@@ -1,6 +1,11 @@
-#12-01-2020
+#12-01-2021
 
-- tweak ustawień serwera (max render distance itp.)
+- tweak ustawień serwera - max render distance
 - poszerzenie puli ram dla serwera
 - poprawienie konfiguracji RCON
 - Spawn Block Protection zmieniony z 16 (48x48) na 1 (3x3)
+
+#13-01-2021
+
+- instalacja i konfiguracja modów
+- tweak ustawień serwera 
