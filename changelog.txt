@@ -8,4 +8,7 @@
 #13-01-2021
 
 - instalacja i konfiguracja modów
-- tweak ustawień serwera 
+- tweak ustawień serwera
+- TNT nie wysadza budunków/tworów graczy (o ile są oznaczone)
+- podpalenie nie działa na budynki graczy (o ile są oznaczone)
+- skrzynie dostępne są tylko dla właściciela (o ile są oznaczone)
