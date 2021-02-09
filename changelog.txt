@@ -20,3 +20,8 @@
 - konfiguracja Chunk'ów - działają po wylogowaniu
 - do zmiany pory dnia wystarczy jedna osoba w łóżku
 - aktualizacja mapy Live
+
+#30-01-2021
+
+- aktualizacja JAVA JDK do wersji 15
+- tweaki środowiska uruchomieniowego JAVA
