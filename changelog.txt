@@ -25,3 +25,9 @@
 
 - aktualizacja JAVA JDK do wersji 15
 - tweaki środowiska uruchomieniowego JAVA
+
+#09-02-2021
+
+- drobne poprawki LOS, Distance i Spawnerów
+- dodanie integracji GriefPrevention do mapy
+- dodanie monitoringu Grafana i alertów Discord
